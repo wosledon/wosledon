@@ -14,10 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <iframe  
- height=850 
- width=90% 
- src="https://www.bilibili.com"  
- frameborder=0  
- allowfullscreen>
- </iframe>
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=DonPangPang)]()
