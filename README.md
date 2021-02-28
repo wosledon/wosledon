@@ -16,7 +16,6 @@ Multi language used
 
 - `C#`
 - `Java`
-- `Go`
 - `TypeScript`
 - `others`
 
@@ -29,7 +28,6 @@ Open source contributor
 - `Android`
 - `Netcore`
 - `Vue`
-- `Frameword`
 - `others`
 
 <br/>
