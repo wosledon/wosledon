@@ -1,6 +1,8 @@
 <!-- ### Hi there 👋 -->
 
-<img align="right" src="https://file.qqtouxiang.com/pic/gx/2019-07-22/6435514f32c494b81bc84d716e37a9c0.gif" />
+<div>
+   <img align="right" src="https://file.qqtouxiang.com/pic/gx/2019-07-22/6435514f32c494b81bc84d716e37a9c0.gif" />
+</div>
 
 <!--
 **DonPangPang/DonPangPang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
