@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <div>
-   <img align="right" src="https://file.qqtouxiang.com/pic/gx/2019-07-22/6435514f32c494b81bc84d716e37a9c0.gif" />
+   <img align="center" src="https://file.qqtouxiang.com/pic/gx/2019-07-22/6435514f32c494b81bc84d716e37a9c0.gif" />
 </div>
 
 <!--
