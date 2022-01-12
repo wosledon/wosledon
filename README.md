@@ -40,5 +40,5 @@ Open source contributor
 
 ---
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/donpangpang/langs?time_range=one_year&use_percent=True&theme=synthwaves)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DonPangPang/repos?time_range=one_year&theme=classic)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/donpangpang/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
