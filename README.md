@@ -42,3 +42,4 @@ Open source contributor
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DonPangPang/langs?time_range=one_year&loc_metric=changed&theme=classic)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DonPangPang/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=donpangpang)](https://github.com/anuraghazra/github-readme-stats)
