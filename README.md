@@ -42,6 +42,8 @@ Open source contributor
 ---
 
 <center>
+   <img src="https://api.githubtrends.io/user/svg/DonPangPang/langs?time_range=one_year&loc_metric=changed&theme=classic" />
+   <img src="https://api.githubtrends.io/user/svg/DonPangPang/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
    [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DonPangPang/langs?time_range=one_year&loc_metric=changed&theme=classic)](https://github.com/DonPangPang)
    [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DonPangPang/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://github.com/DonPangPang)
 </center>
