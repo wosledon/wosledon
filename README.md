@@ -41,11 +41,11 @@ Open source contributor
 
 ---
 
-<center>
-   <img src="https://api.githubtrends.io/user/svg/DonPangPang/langs?time_range=one_year&loc_metric=changed&theme=classic" />
-   <img src="https://api.githubtrends.io/user/svg/DonPangPang/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
+<div>
+   <img align="center" src="https://api.githubtrends.io/user/svg/DonPangPang/langs?time_range=one_year&loc_metric=changed&theme=classic" />
+   <img align="center" src="https://api.githubtrends.io/user/svg/DonPangPang/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
    [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DonPangPang/langs?time_range=one_year&loc_metric=changed&theme=classic)](https://github.com/DonPangPang)
    [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DonPangPang/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://github.com/DonPangPang)
-</center>
+</div>
 
 [![Powers' Activity Graph](https://activity-graph.herokuapp.com/graph?username=donpangpang&custom_title=Powers's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=false&line=d1a01f&point=c58545)](https://github.com/DonPangPang)
