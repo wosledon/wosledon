@@ -43,6 +43,6 @@ Open source contributor
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DonPangPang/langs?time_range=one_year&loc_metric=changed&theme=classic)](https://github.com/DonPangPang)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DonPangPang/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://github.com/DonPangPang)
-<img align="right" width="250px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
+<img align="right" width="240px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
 [![Powers' Activity Graph](https://activity-graph.herokuapp.com/graph?username=donpangpang&custom_title=Powers's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=false&line=d1a01f&point=c58545)](https://github.com/DonPangPang)
