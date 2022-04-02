@@ -43,7 +43,7 @@ Open source contributor
 
 <div align="center">
    <img align="center" src="https://api.githubtrends.io/user/svg/DonPangPang/langs?time_range=one_year&loc_metric=changed&theme=classic" />
-   <img align="center" src="https://api.githubtrends.io/user/svg/DonPangPang/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
+   <img align="center" style="margin-left:60px;" src="https://api.githubtrends.io/user/svg/DonPangPang/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
 </div>
 
 ---
