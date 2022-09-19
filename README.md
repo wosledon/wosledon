@@ -38,7 +38,7 @@ Open source contributor
 
 <br/>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=donpangpang&theme=flat&no-frame=true&margin-w=15" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=donpangpang&theme=flat&no-frame=true&margin-w=30" />
 
 ---
 
