@@ -28,30 +28,6 @@
 
 <div align="center" >
 
-```mermaid
-mindmap
-  root(())
-    编程
-      Web开发
-      网络爬虫
-      人工智能
-    摄影
-      人文
-      建筑
-      风景
-    旅行
-      苏州
-      南京
-      滁州
-      合肥
-      寿县
-    阅读
-      人物传记
-      个人成长
-      社会文化
-      心理
-      计算机技术
-```
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/DonPangPang/DonPangPang/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
