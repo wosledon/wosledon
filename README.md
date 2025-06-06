@@ -3,10 +3,6 @@
 
 <div align="center">
   
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);No bb,show me code!&center=true&size=27" alt="Typing SVG" />
-  </div>
 <img style="height:150px;background-repeat: no-repeat;" src="https://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/f9198618367adab4ff1c79ab89d4b31c8601e40e.jpg" />
 
 
