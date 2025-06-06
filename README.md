@@ -93,18 +93,4 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/DonPangPang/DonPangPang/assets/images/hr.gif" />
 
-<div align="center" >
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=DonPangPang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-  
-</div>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/DonPangPang/DonPangPang/assets/images/hr.gif" />
-
-
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/DonPangPang/DonPangPang/assets/images/rocket.png"/>
-</div>
