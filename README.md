@@ -27,7 +27,7 @@
 
 Hi there! I'm a passionate developer with a keen interest in full-stack development, machine learning, and open-source contributions. Currently exploring modern web technologies and backend systems.
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wosledon&theme=vue&hide_border=true" alt="GitHub Streak" />
