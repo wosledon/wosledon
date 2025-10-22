@@ -74,7 +74,7 @@ Hi there! I'm a passionate developer with a keen interest in full-stack developm
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/DonPangPang/DonPangPang/assets/images/github.webp"> -->
 
 <!-- just img 图片 -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/DonPangPang/DonPangPang/assets/images/icon.png" /> --> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/DonPangPang/DonPangPang/assets/images/icon.png" /> -->
 
 </div>
 
