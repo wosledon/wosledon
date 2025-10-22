@@ -18,8 +18,6 @@
 
 </div>
 
-#  🙋 Hello
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/DonPangPang/DonPangPang/assets/images/hr.gif" />
 
