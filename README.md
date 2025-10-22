@@ -23,8 +23,6 @@
 
 <div align="center">
 
-# 🙋 Hello / 你好
-
 ## 🚀 About Me / 关于我
 
 Hi there! I'm a passionate developer with a keen interest in full-stack development, machine learning, and open-source contributions. Currently exploring modern web technologies and backend systems.
