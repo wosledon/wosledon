@@ -40,15 +40,11 @@ Hi there! I'm a passionate developer with a keen interest in full-stack developm
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wosledon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wosledon&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wosledon&theme=radical&hide_border=true" alt="Wakatime Stats" />
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wosledon&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wosledon&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
