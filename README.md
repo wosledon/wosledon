@@ -31,19 +31,13 @@ Hi there! I'm a passionate developer with a keen interest in full-stack developm
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=wosledon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wosledon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wosledon&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wosledon&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wosledon&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wosledon&theme=vue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -53,10 +47,10 @@ Hi there! I'm a passionate developer with a keen interest in full-stack developm
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wosledon&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wosledon&theme=flat&no-frame=true&no-bg=true" alt="GitHub Trophy" />
 </p>
 
-### 🛠️ Tech Stack
+<br/>
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
@@ -93,4 +87,4 @@ Hi there! I'm a passionate developer with a keen interest in full-stack developm
 <img width="200%" src="https://cdn.jsdelivr.net/gh/DonPangPang/DonPangPang/assets/images/hr.gif" />
 
   <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wosledon&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wosledon&theme=github&hide_border=true" alt="GitHub Activity Graph" />
