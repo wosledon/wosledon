@@ -25,9 +25,9 @@
 
 ## 🚀 About Me / 关于我
 
-Hi there! I'm a passionate developer with a keen interest in full-stack development, machine learning, and open-source contributions. Currently exploring modern web technologies and backend systems.
+Hi there! I'm a passionate developer specializing in web technologies, streaming media, communication systems, and IoT solutions including connected vehicles. I also have a strong interest in full-stack development, machine learning, and contributing to open-source projects.
 
-你好！我是热爱编程的开发者，对全栈开发、机器学习和开源贡献充满热情。目前正在探索现代Web技术和后端系统。
+你好！我是热爱编程的开发者，专注于Web技术、流媒体、通信系统以及物联网解决方案（包括车联网）。同时，我对全栈开发、机器学习和开源项目贡献也充满热情。
 
 ## 📊 GitHub Stats / GitHub 统计
 
