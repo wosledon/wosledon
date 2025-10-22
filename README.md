@@ -42,7 +42,7 @@ Hi there! I'm a passionate developer with a keen interest in full-stack developm
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wosledon&theme=vue&no-frame=true&no-bg=true" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wosledon&theme=vue&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophy" />
 </p>
 
 </div>
