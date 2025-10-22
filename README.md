@@ -32,7 +32,7 @@ Hi there! I'm a passionate developer with a keen interest in full-stack developm
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wosledon&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wosledon&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wosledon&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
 </p>
 
