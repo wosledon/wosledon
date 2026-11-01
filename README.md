@@ -70,45 +70,13 @@ Hi, I'm **ledon** ([@wosledon](https://github.com/wosledon)) — a developer bas
 
 <img src="assets/images/divider.svg" alt="" width="100%" />
 
-## 🚀 Featured Projects / 精选项目
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[Hetu](https://github.com/wosledon/Hetu)**<br/><img src="https://img.shields.io/github/stars/wosledon/Hetu?style=flat-square&label=%E2%98%85&color=6e40c9" alt="Hetu stars" /> | Local-first AI knowledge & agent workspace: Markdown notes, chats and coding sessions, semantic search, knowledge graph, wiki, memory, kanban and workflows. | `C#` `.NET` `React` `Tauri` `RAG` `MCP` |
-| **[Berry.Live](https://github.com/wosledon/Berry.Live)**<br/><img src="https://img.shields.io/github/stars/wosledon/Berry.Live?style=flat-square&label=%E2%98%85&color=6e40c9" alt="Berry.Live stars" /> | Ready-to-use .NET live streaming server: RTMP push, HTTP-FLV / WebSocket-FLV pull, and a built-in web console. | `C#` `.NET` `RTMP` `HTTP-FLV` `WebSocket` |
-| **[AIReview](https://github.com/wosledon/AIReview)**<br/><img src="https://img.shields.io/github/stars/wosledon/AIReview?style=flat-square&label=%E2%98%85&color=6e40c9" alt="AIReview stars" /> | AI-powered code review platform with automated quality checks, intelligent feedback, and Git / IDE integration. | `C#` `.NET` `TypeScript` `LLM` `PostgreSQL` |
-| **[EnergyStarZ](https://github.com/wosledon/EnergyStarZ)**<br/><img src="https://img.shields.io/github/stars/wosledon/EnergyStarZ?style=flat-square&label=%E2%98%85&color=6e40c9" alt="EnergyStarZ stars" /> | Windows energy manager that auto-throttles background processes for longer battery life and a smoother foreground. | `C#` `.NET` `WinForms` `Windows` |
-| **[ledon-framework](https://github.com/wosledon/ledon-framework)**<br/><img src="https://img.shields.io/github/stars/wosledon/ledon-framework?style=flat-square&label=%E2%98%85&color=6e40c9" alt="ledon-framework stars" /> | Modular .NET 10 web framework built around auto-discovery and auto-injection, with data, cache, queue, scheduling, auth and observability as separate packages. | `C#` `.NET 10` `ASP.NET Core` `EF Core` |
-| **[Soda.Http](https://github.com/wosledon/Soda.Http)**<br/><img src="https://img.shields.io/github/stars/wosledon/Soda.Http?style=flat-square&label=%E2%98%85&color=6e40c9" alt="Soda.Http stars" /> | A lightweight, easy-to-use HttpClient library for C#. | `C#` `.NET` `HttpClient` |
-| **[NbazhGPS](https://github.com/wosledon/NbazhGPS)**<br/><img src="https://img.shields.io/github/stars/wosledon/NbazhGPS?style=flat-square&label=%E2%98%85&color=6e40c9" alt="NbazhGPS stars" /> | EV26 terminal positioning protocol for IoT / connected-vehicle data ingestion. | `C#` `.NET` `IoT` `Telematics` |
-
-<p align="center">
-  <a href="https://github.com/wosledon?tab=repositories"><b>Explore all repositories →</b></a>
-</p>
-
-<img src="assets/images/divider.svg" alt="" width="100%" />
-
 ## 📊 GitHub Stats / GitHub 数据
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wosledon&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wosledon&theme=github" alt="GitHub profile details" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=wosledon&theme=github&hide_border=true" alt="GitHub streak stats" />
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wosledon&theme=github-dark&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=wosledon&theme=github&hide_border=true" alt="GitHub streak stats" />
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wosledon&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wosledon&theme=github" alt="Top languages by repository" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wosledon&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wosledon&theme=github" alt="Top languages by commit" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wosledon&theme=github" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wosledon&theme=github" alt="Top languages by commit" />
 </div>
 
 <img src="assets/images/divider.svg" alt="" width="100%" />
@@ -116,11 +84,7 @@ Hi, I'm **ledon** ([@wosledon](https://github.com/wosledon)) — a developer bas
 ## 🐍 Contribution Snake / 贡献贪吃蛇
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-snake-contrib/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-snake-contrib/github-contribution-grid-snake.svg">
-    <img src="profile-snake-contrib/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
-  </picture>
+  <img src="profile-snake-contrib/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
 </div>
 
 <img src="assets/images/divider.svg" alt="" width="100%" />
