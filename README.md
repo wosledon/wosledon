@@ -73,7 +73,7 @@ Hi, I'm **ledon** ([@wosledon](https://github.com/wosledon)) — a developer bas
 ## 📊 GitHub Stats / GitHub 数据
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wosledon&theme=github&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=wosledon&theme=github" alt="GitHub streak stats" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wosledon&theme=github" alt="Top languages by repository" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wosledon&theme=github" alt="Top languages by commit" />
